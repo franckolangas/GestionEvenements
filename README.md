@@ -1,7 +1,7 @@
 # Gestion d'Événements
 
 ## Description
-Ce projet est une application de gestion d'événements qui permet aux utilisateurs d'organiser et de gérer des événements tels que des expositions, conférences et réunions. Les utilisateurs pourront créer des événements, gérer la liste des invités, et consulter les détails de chaque événement sur une interface visuelle dynamique.
+**Gestion d'Événements** est une application dédiée à l'organisation et à la gestion d'événements tels que des expositions, des conférences et des réunions. Elle permet aux utilisateurs de créer des événements, de gérer la liste des invités et de consulter les détails de chaque événement via une interface visuelle dynamique.
 
 ## Technologies Utilisées
 - **Frontend** : React
@@ -10,11 +10,11 @@ Ce projet est une application de gestion d'événements qui permet aux utilisate
 - **Admin Panel** : PHP
 
 ## Fonctionnalités
-- Inscription et connexion d’utilisateurs
-- Création, modification et suppression d’événements
-- Gestion de la liste des invités
-- Système de notifications pour rappeler les événements
-- Interface d'administration pour gérer les utilisateurs et les événements
+- **Inscription et connexion des utilisateurs** : Créez un compte et accédez à vos événements.
+- **Gestion des événements** : Créez, modifiez ou supprimez des événements selon vos besoins.
+- **Gestion de la liste des invités** : Ajoutez, modifiez ou supprimez des invités pour chaque événement.
+- **Système de notifications** : Recevez des rappels pour les événements à venir.
+- **Interface d'administration** : Gérez les utilisateurs et les événements de manière centralisée.
 
 ## Roadmap
 - [ ] Configurer le backend avec Node.js et Express
@@ -28,52 +28,7 @@ Ce projet est une application de gestion d'événements qui permet aux utilisate
 ## Installation
 
 ### Cloner le dépôt
+Pour commencer, clonez le dépôt :
 ```bash
 git clone https://github.com/franckolangas/GestionEvenements.git
 cd GestionEvenements
-
-Backend
-Accéder au dossier backend :
-```bash
-
-cd backend
-Installer les dépendances :
-```bash
-Copier le code
-npm install
-Configurer l'environnement (ajouter un fichier .env avec les variables nécessaires).
-
-Démarrer le serveur :
-```bash
-node server.js
-Frontend
-Accéder au dossier frontend :
-```bash
-
-cd frontend
-Installer les dépendances :
-```bash
-
-npm install
-Démarrer l'application :
-```bash
-
-npm start
-Admin Panel
-
-Accéder au dossier admin :
-```bash
-cd admin
-Configurer le serveur web pour exécuter les fichiers PHP.
-Contribuer
-Les contributions sont les bienvenues ! Pour contribuer, veuillez suivre ces étapes :
-
-Fork ce dépôt
-Créez une branche pour votre fonctionnalité (ex. : feature/nom-de-la-fonctionnalité)
-Effectuez vos modifications
-Soumettez une pull request
-Contact
-Pour toute question ou suggestion, veuillez me contacter à :
-
-📧 Email : franckolangas01@gmail.com
-🔗 LinkedIn : Mon profil LinkedIn
