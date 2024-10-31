@@ -34,35 +34,35 @@ cd GestionEvenements
 
 Backend
 Accéder au dossier backend :
-bash
-Copier le code
+```bash
+
 cd backend
 Installer les dépendances :
-bash
+```bash
 Copier le code
 npm install
 Configurer l'environnement (ajouter un fichier .env avec les variables nécessaires).
+
 Démarrer le serveur :
-bash
-Copier le code
+```bash
 node server.js
 Frontend
 Accéder au dossier frontend :
-bash
-Copier le code
+```bash
+
 cd frontend
 Installer les dépendances :
-bash
-Copier le code
+```bash
+
 npm install
 Démarrer l'application :
-bash
-Copier le code
+```bash
+
 npm start
 Admin Panel
+
 Accéder au dossier admin :
-bash
-Copier le code
+```bash
 cd admin
 Configurer le serveur web pour exécuter les fichiers PHP.
 Contribuer
