@@ -29,6 +29,6 @@ Ce projet est une application de gestion d'événements qui permet aux utilisate
 
 ### Cloner le dépôt
 ```bash
-git clone https://github.com/ton-nom-utilisateur/GestionEvenements.git
+git clone https://github.com/franckolangas/GestionEvenements.git
 cd GestionEvenements
 
