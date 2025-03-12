@@ -1,4 +1,4 @@
-# Gestion d'Événements
+# Gestion d'Événements (Pas encore disponible)
 
 ## Description
 **Gestion d'Événements** est une application dédiée à l'organisation et à la gestion d'événements tels que des expositions, des conférences et des réunions. Elle permet aux utilisateurs de créer des événements, de gérer la liste des invités et de consulter les détails de chaque événement via une interface visuelle dynamique.
